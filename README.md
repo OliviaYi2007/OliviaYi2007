@@ -1,4 +1,6 @@
-![Hi, I'm Olivia](https://img.shields.io/badge/Hi,_I'm_Olivia-ffb6c1?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://via.placeholder.com/600x80/ffb6c1/000000?text=Hi,+I'm+Olivia" alt="Hi, I'm Olivia"/>
+</p>
 
 
 <h3 align="center">First-year SE student @ UWaterloo</h3>
