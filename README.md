@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://via.placeholder.com/600x80/ffb6c1/000000?text=Hi,+I'm+Olivia" alt="Hi, I'm Olivia"/>
+  <img src="assets/olivia.png" alt="Hi, I'm Olivia" width="600">
 </p>
-
 
 <h3 align="center">First-year SE student @ UWaterloo</h3>
 
