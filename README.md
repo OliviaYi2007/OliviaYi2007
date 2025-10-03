@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/olivia.png" alt="Hi, I'm Olivia" width="600">
-</p>
-
+</p>="assets/olivia.png" alt="Hi, I'm Olivia" width="600">
 <h3 align="center">First-year SE student @ UWaterloo</h3>
 
 <p align="left">
