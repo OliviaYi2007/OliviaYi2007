@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Olivia</h1>
-<h3 align="left">First-year SE student @ UWaterloo</h3>
+<h3 align="left">I am a first-year SE student @ UWaterloo, nice to meet you :)</h3>
 
 <p align="left">
 </p>
