@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="olivia.png" alt="Hi, I'm Olivia" width="600">
+  <img src="assets/olivia.png" alt="Hi, I'm Olivia" width="600">
 </p>
 
 <h3 align="center">First-year SE student @ UWaterloo</h3>
