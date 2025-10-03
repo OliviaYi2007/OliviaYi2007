@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Olivia</h1>
-<h3 align="center">a first-year SE student @ UWaterloo</h3>
+<h3 align="center">First-year SE student @ UWaterloo</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
